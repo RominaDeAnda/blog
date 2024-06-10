@@ -1,0 +1,43 @@
+<html>
+	<head>
+	<meta charset="utf-8">
+
+	<tittle> blog</tittle>
+	</head>
+<body>
+	<p style="font-size: 80px; font-family: century gothic; text-align: center">FASHION TRENDS</p>
+	<p style="font-size: 50px; font-family: century gothic; text-align: center">Trends for this autum-winter season 2021</p>
+	<hr align="center" width="90%" size="3" color="black">
+	<div align="center">
+		<table>
+			<thead>
+			<tr>
+				<th><img src="https://i.pinimg.com/564x/84/21/8b/84218b1148d3d8ff69d79f272f93cd17.jpg" width="400px"></th>
+				<th><img src="https://i.pinimg.com/564x/f4/aa/da/f4aadab2c27bc2977d763a0a586dd2a4.jpg" width="400px"></th>
+				<th> <img src="https://i.pinimg.com/564x/82/7e/ac/827eac651048c0c847c1677bbb6a8189.jpg" width="400px"></th>
+				</tr>
+			</thead> 
+		</table>
+	</div>
+	<hr align="center" width="90%" size="3" color="black">
+	<div align="center">
+	<p style="font-family: century gothic; font-size: 30px; font-style: oblique">Cream Color Boots</p>
+	<p style="font-family: century gothic; font-size: 20px; width: 60%; text-align: center">It’s one of the longest-lasting trends for the past season, and it isn’t going anywhere. You can wear cream color boots with dresses for work and blue jeans at the weekend.</p>
+	<p style="font-family: century gothic; font-size: 30px">Velvet</p>
+	<p style="font-family: century gothic; font-size: 20px; width: 60%; text-align: center">Inject romance into your look by pairing velvet separates with kitten heels. Find beautiful velvet dress in mini or midi lengths for winter parties or date nights.</p>
+	<p style="font-family: century gothic; font-size: 30px; font-style: oblique">Cold Weather Leathers</p>
+	<p style="font-family: century gothic; font-size: 20px; width: 60%; text-align: center">One of the biggest winter trends is not a surprise. Every one of us has at least one piece in the wardrobe with this material. Winter is an ideal time of the year when we can wear leather pants, jackets, or even dresses. </p>
+	<p style="font-family: century gothic; font-size: 30px; font-style: oblique">Cardigans</p>
+	<p style="font-family: century gothic; font-size: 20px; width: 60%; text-align: center">Entwined in the resurgence of ladylike style, models have been wrapped in cardigans this winter. </p>
+		</div>
+	<p style="font-size: 50px; font-family: century gothic; text-align: center">Milan Fashion Week favorites!</p>
+	<div align="center"><img src="https://fashionmagazine.com/wp-content/uploads/2019/09/Milano-str-RS20-8891-768x1152.jpg" width="400px">
+		<p style="font-family: century gothic; font-size: 20px; width: 60%; text-align: center">After a stellar start in New York, and then a cool week in London, Fashion Month continues to move at a rapid pace with the fash pack touching down in Milan yesterday for the first day of Milan Fashion Week S/S20.<p/>
+
+<p style="font-family: century gothic; font-size: 20px; width: 60%; text-align: center">Prada was the first brand to show its newest collection, followed by Peter Pilotto who debuted a gender neutral collection for the first time.</p>
+
+<p style="font-family: century gothic; font-size: 20px; width: 60%; text-align: center">And the style set is showing no signs of fashion fatigue, serving up a range of screenshot-worthy street style looks in the Italian city. Suiting is a major trend so far, whether printed or pinstripe, and so too is pairing a tailored shirt with high-waisted trousers. As with London and New York, brights continue to dominate the streets via handbags, printed separates and accessories and footwear remains practical, too, with sneakers, kitten heels and lug-sole boots all proving popular.</p>
+	</div>
+	
+	</body>
+</html>
